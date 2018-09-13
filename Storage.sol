@@ -23,7 +23,6 @@ contract Storage {
         mapping (uint256 => DataContract) contracts;
     }
 
-
     struct DataUser{
         string name;
         string addressUser;
